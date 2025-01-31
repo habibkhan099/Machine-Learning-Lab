@@ -1,4 +1,3 @@
-```markdown
 # Lab 01: Python Basics and File Handling 📂🐍
 
 Welcome to **Lab 01: Python Basics and File Handling**! This lab introduces fundamental Python programming concepts, including functions, file handling (JSON and CSV), and basic data manipulation. It also covers how to work with Jupyter Notebooks.
@@ -50,7 +49,6 @@ To run the notebook:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Machine-Learning-Lab-Computer-Engineering.git
-   ```
 2. Navigate to the lab folder:
    ```bash
    cd Machine-Learning-Lab-Computer-Engineering/Lab01
@@ -112,11 +110,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Thank you for visiting this repository! If you have any questions or feedback, feel free to reach out. 😊
 
-** Habib Ullah**  
-Machine Learning Student  
-```
-
----
-
-
-Let me know if you still face issues! 😊
+**Habib Ullah**
+Student of Computer Engineering UET Taxila
