@@ -1,6 +1,6 @@
-# Machine Learning Lab - Computer Engineering
+# Machine Learning Lab 
 
-Welcome to the **Machine Learning Lab** repository for Computer Engineering! This repository contains all the labs and projects completed as part of my Machine Learning coursework. Each lab focuses on different machine learning concepts, algorithms, and techniques, implemented using Python and popular libraries like Scikit-Learn, Pandas, and Matplotlib.
+Welcome to the **Machine Learning Lab** repository ! This repository contains all the labs and projects completed as part of my Machine Learning coursework. Each lab focuses on different machine learning concepts, algorithms, and techniques, implemented using Python and popular libraries like Scikit-Learn, Pandas, and Matplotlib.
 
 ---
 
