@@ -21,7 +21,7 @@ The dataset consists of multiple features related to housing prices in a given r
 | `Address`                       | Address of the house |
 
 📌 **Sample Dataset Output:**
-![Dataset Sample](img.jpg)
+![](img.png)
 
 ---
 
@@ -66,7 +66,7 @@ print(f"Model R² Score: {r2:.4f}")
 - **Red line** represents the predicted price trend using linear regression.  
 - A weak correlation suggests that a better model or feature selection is needed.  
 
-![Regression Line](image1.png)
+![Regression Line](img1.png)
 
 ---
 
@@ -75,7 +75,7 @@ print(f"Model R² Score: {r2:.4f}")
 - A **normal distribution** of residuals is preferred for a good regression model.  
 - The plot indicates that **our model needs improvement**, as residuals are not centered well around zero.  
 
-![Residuals Plot](image2.png)
+![Residuals Plot](img2.png)
 
 ---
 
@@ -106,3 +106,6 @@ print(f"Model R² Score: {r2:.4f}")
 - **Matplotlib (Plotting Library):** [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)  
 
 ---
+---
+## 🙌 Thank You!  
+Thank you for visiting this project! If you found it useful, feel free to ⭐ the repository and contribute to future improvements. 🚀
