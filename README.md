@@ -1,7 +1,10 @@
 # Machine Learning Lab 
 
 Welcome to the **Machine Learning Lab** repository ! This repository contains all the labs and projects completed as part of my Machine Learning coursework. Each lab focuses on different machine learning concepts, algorithms, and techniques, implemented using Python and popular libraries like Scikit-Learn, Pandas, and Matplotlib.
-![](anim.mp4)
+<video width="640" height="360" controls>
+  <source src="anim.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
