@@ -90,9 +90,9 @@ During the analysis, multiple data visualizations were generated, including:
 -Passenger Class Distribution → Analyzing the distribution of passengers across different classes.
 -Fare Distribution Plot → Examining ticket fare variation.
 ## 📚 References
--Kaggle Titanic Dataset: https://www.kaggle.com/c/titanic
--Seaborn Documentation: https://seaborn.pydata.org/
--Matplotlib Documentation: https://matplotlib.org/
+- Kaggle Titanic Dataset: https://www.kaggle.com/c/titanic
+- Seaborn Documentation: https://seaborn.pydata.org/
+- Matplotlib Documentation: https://matplotlib.org/
 
 ## 📜 **Conclusion**
 
