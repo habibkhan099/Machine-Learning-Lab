@@ -99,6 +99,6 @@ During the analysis, multiple data visualizations were generated, including:
 EDA is a crucial step in understanding datasets before applying machine learning models. Through visualization and statistical analysis, we can uncover valuable patterns and insights that help in better decision-making.
 
 ---
-**Habib Ullah** <br>
-Undergraduate Computer Engineering Student, UET Taxila.
+## 🙌 Thank You!  
+Thank you for visiting this project! If you found it useful, feel free to ⭐ the repository and contribute to future improvements. 🚀
 
