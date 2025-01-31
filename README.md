@@ -1,7 +1,6 @@
-```markdown
 # Machine Learning Lab - Computer Engineering
 
-Welcome to the **Machine Learning Lab** repository! This repository contains all the labs and projects completed as part of my Machine Learning coursework. Each lab focuses on different machine learning concepts, algorithms, and techniques, implemented using Python and popular libraries like Scikit-Learn, Pandas, and Matplotlib.
+Welcome to the **Machine Learning Lab** repository for Computer Engineering! This repository contains all the labs and projects completed as part of my Machine Learning coursework. Each lab focuses on different machine learning concepts, algorithms, and techniques, implemented using Python and popular libraries like Scikit-Learn, Pandas, and Matplotlib.
 
 ---
 
@@ -56,7 +55,6 @@ This repository is organized into individual labs, each covering a specific topi
 - **Notebook**: [Lab06.ipynb](Lab06/Lab06.ipynb)
 
 ---
-
 ## Repository Structure
 
 ```
@@ -133,7 +131,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Acknowledgments
 
 - The labs in this repository are inspired by various open-source machine learning projects and tutorials.
-- Special thanks to the instructors and peers who provided guidance and support during the coursework.
+- Special thanks to the instructors **Dr. Waqar Ahmad** and peers who provided guidance and support during the coursework.
 
 ---
 
