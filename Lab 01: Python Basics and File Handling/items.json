@@ -1,0 +1,20 @@
+{
+    "Items": [
+        {
+            "name": "Book",
+            "price": 250
+        },
+        {
+            "name": "pen",
+            "price": 50
+        },
+        {
+            "name": "Chair",
+            "price": 500
+        },
+        {
+            "name": "sheets",
+            "price": 150
+        }
+    ]
+}
