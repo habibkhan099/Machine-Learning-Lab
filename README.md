@@ -32,7 +32,7 @@ This repository is organized into individual labs, each covering a specific topi
 
 ### Lab 01: Python Basics and File Handling
 - **Description**: Introduction to Python programming, file handling (JSON and CSV), and Jupyter Notebook basics.
-- **Notebook**: [Lab01.ipynb](Lab01/Lab01.ipynb)
+- **Notebook**: [Lab01.ipynb](Lab 01: Python Basics and File Handling/Lab01.ipynb)
 
 ### Lab 02: Exploratory Data Analysis (EDA)
 - **Description**: Data exploration, visualization, and preprocessing using the Iris dataset.
