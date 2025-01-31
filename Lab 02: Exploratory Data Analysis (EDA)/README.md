@@ -81,13 +81,24 @@ By the end of this lab, you will have:
 - Experience in applying different EDA techniques.
 - Insights into survival factors among passengers.
 - Improved skills in data visualization and statistical analysis.
+## 📊 **Key Outputs (Plots & Visualizations)**
+During the analysis, multiple data visualizations were generated, including:
+
+-Histogram & Boxplot of Age → To understand the age distribution and detect outliers.
+-Survival Rate by Gender → Visualizing survival differences between males and females.
+-Correlation Heatmap → Identifying relationships between numerical variables.
+-Passenger Class Distribution → Analyzing the distribution of passengers across different classes.
+-Fare Distribution Plot → Examining ticket fare variation.
+## 📚 References
+-Kaggle Titanic Dataset: https://www.kaggle.com/c/titanic
+-Seaborn Documentation: https://seaborn.pydata.org/
+-Matplotlib Documentation: https://matplotlib.org/
 
 ## 📜 **Conclusion**
 
 EDA is a crucial step in understanding datasets before applying machine learning models. Through visualization and statistical analysis, we can uncover valuable patterns and insights that help in better decision-making.
 
 ---
-
-**Author:** Habib Ullah\
-**Student of Computer Engineering Dept UET Taxila, Pakistan**
+**Habib Ullah** <br>
+Undergraduate Computer Engineering Student, UET Taxila.
 
