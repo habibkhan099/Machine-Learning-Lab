@@ -68,10 +68,7 @@ model.fit(X_train, y_train)
 
 ### 4. Model Evaluation
 - **R-squared (R²) Formula:**  
-  \( R^2 = 1 - \frac{SS_{res}}{SS_{tot}} \)  
-  Where:
-  - \( SS_{res} \) = Sum of squares of residuals
-  - \( SS_{tot} \) = Total sum of squares
+  ![](images/R_Square_formula.png)
 
 - **Mean Squared Error (MSE) Formula:**  
   \( MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \)  
