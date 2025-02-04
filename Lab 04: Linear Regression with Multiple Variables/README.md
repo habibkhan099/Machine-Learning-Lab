@@ -1,21 +1,21 @@
-## 🧠 Machine Learning Lab 04: Multi features Linear Regression & Model Evaluation
+## 🧠 Machine Learning Lab 04: Linear Regression with Multiple features & Model Evaluation
 
 Welcome to **Machine Learning Lab 04**, where we dive deeper into **Linear Regression**, model evaluation, and performance analysis using Python. This lab focuses on understanding regression metrics, residual analysis, and improving model accuracy.
 
 ---
 
-## 📋 Table of Contents
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [Dataset Description](#dataset-description)
-4. [Implementation Steps](#implementation-steps)
-    - [1. Data Loading](#1-data-loading)
-    - [2. Data Preprocessing](#2-data-preprocessing)
-    - [3. Model Training](#3-model-training)
-    - [4. Model Evaluation](#4-model-evaluation)
-5. [Results & Visualizations](#results--visualizations)
-6. [Lab Questions](#lab-questions)
-7. [References](#references)
+## 📋 [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Dataset Description](#dataset-description)
+- [Implementation Steps](#implementation-steps)
+  - [1. Data Loading](#1-data-loading)
+  - [2. Data Preprocessing](#2-data-preprocessing)
+  - [3. Model Training](#3-model-training)
+  - [4. Model Evaluation](#4-model-evaluation)
+- [Results & Visualizations](#results--visualizations)
+- [Lab Questions & Answers](#lab-questions--answers)
+- [References](#references)
 
 ---
 
@@ -41,6 +41,8 @@ The dataset includes the following features:
 - **Area Population**: Population of the area
 - **Price**: Target variable (House price)
 - **Address**: Address of the property
+  <br>
+  ![](images/data_head.png)
 
 ---
 
@@ -65,9 +67,18 @@ model.fit(X_train, y_train)
 ```
 
 ### 4. Model Evaluation
-- **R-squared** to measure model performance
-- **Residual plots** for error analysis
-- **Mean Squared Error (MSE)** to evaluate prediction accuracy
+- **R-squared (R²) Formula:**  
+  \( R^2 = 1 - \frac{SS_{res}}{SS_{tot}} \)  
+  Where:
+  - \( SS_{res} \) = Sum of squares of residuals
+  - \( SS_{tot} \) = Total sum of squares
+
+- **Mean Squared Error (MSE) Formula:**  
+  \( MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \)  
+  Where:
+  - \( y_i \) = Actual values
+  - \( \hat{y}_i \) = Predicted values
+  - \( n \) = Number of observations
 
 ```python
 from sklearn.metrics import mean_squared_error, r2_score
@@ -80,16 +91,34 @@ print("MSE:", mean_squared_error(y_test, predictions))
 
 ## 📈 Results & Visualizations
 - **Regression Line Plot:** Shows the best-fit line against actual data points
+  <br>
+  ![](images/model_plot.png)
 - **Residual Plot:** Evaluates the distribution of prediction errors
+  <br>
+  ![](images/Residuals_plot.png)
 
 
 ---
 
-## ❓ Lab Questions
-1. What is the significance of the R-squared value in linear regression?
-2. How do residual plots help in evaluating model performance?
-3. What are the key assumptions of linear regression?
-4. How can we improve the performance of our regression model?
+## ❓ Lab Questions & Answers
+
+1. **What is the significance of the R-squared value in linear regression?**  
+   R-squared indicates how well the model explains the variability of the target variable. A value closer to 1 means a better fit.
+
+2. **How do residual plots help in evaluating model performance?**  
+   Residual plots help identify patterns, indicating whether the model's assumptions are valid. Randomly scattered residuals suggest a good model fit.
+
+3. **What are the key assumptions of linear regression?**  
+   - Linearity
+   - Independence of errors
+   - Homoscedasticity (constant variance)
+   - Normal distribution of errors
+
+4. **How can we improve the performance of our regression model?**  
+   - Feature engineering
+   - Polynomial regression
+   - Removing outliers
+   - Regularization techniques
 
 ---
 
@@ -102,5 +131,4 @@ print("MSE:", mean_squared_error(y_test, predictions))
 
 ## 🙌 Thank You!
 Thank you for exploring this lab. Feel free to ⭐ the repository if you found it useful!
-
 
