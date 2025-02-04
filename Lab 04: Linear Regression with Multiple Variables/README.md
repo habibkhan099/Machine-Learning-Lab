@@ -67,16 +67,20 @@ model.fit(X_train, y_train)
 ```
 
 ### 4. Model Evaluation
-- **R-squared (R²) Formula:**  
-  ![](images/R_Square_formula.png)
-
-- **Mean Squared Error (MSE) Formula:**  
-  \( MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \)  
+- **R-squared (R²) Formula:**\
+  \(R^2 = 1 - \frac{SS_{res}}{SS_{tot}}\)\
   Where:
-  - \( y_i \) = Actual values
-  - \( \hat{y}_i \) = Predicted values
-  - \( n \) = Number of observations
 
+  - \(SS_{res}\) = Sum of squares of residuals
+  - \(SS_{tot}\) = Total sum of squares
+
+- **Mean Squared Error (MSE) Formula:**\
+  `MSE = (1/n) * Σ (yi - ŷi)^2`\
+  Where:
+
+  - `yi` = Actual values
+  - `ŷi` = Predicted values
+  - `n` = Number of observations
 ```python
 from sklearn.metrics import mean_squared_error, r2_score
 predictions = model.predict(X_test)
