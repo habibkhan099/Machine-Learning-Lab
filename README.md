@@ -17,13 +17,13 @@ This repository is organized into individual labs, each covering a specific topi
 2. **Lab 02: Exploratory Data Analysis (EDA)**
    - Focuses on data exploration, visualization, and preprocessing using the Iris dataset.
 
-3. **Lab 03: Linear Regression**
-   - Implements linear regression for predicting house prices.
+3. **Lab 03: Linear Regression Using One feature**
+   - Implements linear regression for predicting house prices using one feature.
 
-4. **Lab 04: Classification Using Decision Trees**
-   - Demonstrates classification using decision trees on a sample dataset.
+4. **Lab 04: Linear Regression with Multiple Variables**
+   - Implements linear regression for predicting house prices with Multiple Variables.
 
-5. **Lab 05: Clustering with K-Means**
+5. **Lab 05: Overfitting and Regularization in Linear Regression**
    - Applies the K-Means clustering algorithm to group data points.
 
 6. **Lab 06: Sentiment Analysis**
