@@ -24,7 +24,7 @@ This repository is organized into individual labs, each covering a specific topi
    - Implements linear regression for predicting house prices with Multiple Variables.
 
 5. **Lab 05: Overfitting and Regularization in Linear Regression**
-   - Applies the K-Means clustering algorithm to group data points.
+   -  Aplying different techniques to adress overfitting.
 
 6. **Lab 06: Sentiment Analysis**
    - Performs sentiment analysis on text data using natural language processing (NLP) techniques.
@@ -45,12 +45,12 @@ This repository is organized into individual labs, each covering a specific topi
 - **Description**: Implementation of linear regression for predicting house prices.
 - **Notebook**: [Lab03.ipynb](Lab03/Lab03.ipynb)
 
-### Lab 04: Classification Using Decision Trees
-- **Description**: Classification using decision trees on a sample dataset.
+### Lab 04: Linear Regression with Multiple Variables
+- **Description**: Implements linear regression for predicting house prices with Multiple Variables.
 - **Notebook**: [Lab04.ipynb](Lab04/Lab04.ipynb)
 
-### Lab 05: Clustering with K-Means
-- **Description**: Application of the K-Means clustering algorithm to group data points.
+### Lab 05: Overfitting and Regularization in Linear Regression
+- **Description**: Aplying different techniques to adress overfitting.
 - **Notebook**: [Lab05.ipynb](Lab05/Lab05.ipynb)
 
 ### Lab 06: Sentiment Analysis
