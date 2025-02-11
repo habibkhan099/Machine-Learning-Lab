@@ -66,6 +66,6 @@ Below is a plot comparing **Train vs Test Scores**:
 📖 Andrew Ng's Machine Learning Course  
 
 ---
-👨‍💻 **Author:** Habib Khan  
+👨‍💻 **Author:** Habib Ullah
 📩 For any queries, feel free to raise an issue in the repository! 🚀
 
