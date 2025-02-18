@@ -11,9 +11,6 @@ This repository contains **Lab 06: Polynomial Regression** focusing on visualizi
 - **Images/**: Folder containing output plots and visualizations.
 
 ---
-## 🚀 Open in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/habibkhan099/Machine-Learning-Lab/blob/main/Lab06.ipynb)
----
 
 ## 🚀 How to Run
 ```bash
@@ -31,7 +28,7 @@ jupyter notebook Lab06.ipynb
 
 ### Task 1: Visualizing Dataset
 - Scatter plots and regression lines comparing Linear Regression and Polynomial Regression (degree = 4).
-- ![Task 1 Output](images/img1.png)
+- ![Task 1 Output](Images/img1.png)
 
 ### Task 2: Training Polynomial Models
 - Polynomial models with degrees 2, 3, and 5, and R² score comparison.
@@ -68,8 +65,10 @@ jupyter notebook Lab06.ipynb
 
 ---
 
-👨‍💻 **Author:** Habib Ullah
+👨‍💻 **Author:** Habib Ullah<br>
 📩 For questions or feedback, raise an issue in the repository!
 
 ---
+## 🚀 Open in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/habibkhan099/Machine-Learning-Lab/blob/main/Lab06.ipynb)
 
