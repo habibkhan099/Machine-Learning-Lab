@@ -26,8 +26,8 @@ This repository is organized into individual labs, each covering a specific topi
 5. **Lab 05: Overfitting and Regularization in Linear Regression**
    -  Aplying different techniques to adress overfitting.
 
-6. **Lab 06: Sentiment Analysis**
-   - Performs sentiment analysis on text data using natural language processing (NLP) techniques.
+6. **Lab 06: Polynomial Regression**
+   - Creating new feature from existance features to reduce cost.
 
 ---
 
@@ -53,8 +53,8 @@ This repository is organized into individual labs, each covering a specific topi
 - **Description**: Aplying different techniques to adress overfitting.
 - **Notebook**: [Lab05.ipynb](Lab05/Lab05.ipynb)
 
-### Lab 06: Sentiment Analysis
-- **Description**: Sentiment analysis on text data using NLP techniques.
+### Lab 06: Polynomial Regression
+- **Description**: Creating new feature from existance features to reduce cost.
 - **Notebook**: [Lab06.ipynb](Lab06/Lab06.ipynb)
 
 ---
@@ -79,7 +79,7 @@ Machine-Learning-Lab-Computer-Engineering/
 ├── Lab05/                        # Lab 05: Clustering with K-Means
 │   ├── Lab05.ipynb               # Jupyter Notebook for Lab 05
 │   └── README.md                 # Lab 05 README
-├── Lab06/                        # Lab 06: Sentiment Analysis
+├── Lab06/                        # Lab 06: Polynomial Regression
 │   ├── Lab06.ipynb               # Jupyter Notebook for Lab 06
 │   └── README.md                 # Lab 06 README
 ├── LICENSE                       # License file for the repository
