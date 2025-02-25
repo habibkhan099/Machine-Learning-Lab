@@ -28,7 +28,8 @@ This repository is organized into individual labs, each covering a specific topi
 
 6. **Lab 06: Polynomial Regression**
    - Creating new feature from existance features to reduce cost.
-
+7. **Lab 07: Logistic Regression**
+   - Applying Logistic Regression on Categorical data to make prediction.
 ---
 
 ## Labs and Projects
@@ -57,6 +58,10 @@ This repository is organized into individual labs, each covering a specific topi
 - **Description**: Creating new feature from existance features to reduce cost.
 - **Notebook**: [Lab06.ipynb](Lab06/Lab06.ipynb)
 
+### Lab 07: Logistic Regression
+- **Description**: Applying Logistic Regression on Categorical data to make prediction.
+- **Notebook**: [Lab07.ipynb](Lab07/Lab07.ipynb)
+
 ---
 ## Repository Structure
 
@@ -84,6 +89,11 @@ Machine-Learning-Lab-Computer-Engineering/
 │   └── README.md                 # Lab 06 README
 ├── LICENSE                       # License file for the repository
 └── README.md                     # This file
+├── Lab07/                        # Lab 06: Polynomial Regression
+│   ├── Lab07.ipynb               # Jupyter Notebook for Lab 07
+│   └── README.md                 # Lab 07 README
+├── LICENSE                       # License file for the repository
+└── README.md   
 ```
 
 ---
