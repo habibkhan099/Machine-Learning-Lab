@@ -75,9 +75,12 @@ jupyter notebook Lab07.ipynb
 ---
 
 ## 📷 Output Visualizations
-- **Sigmoid Function Plot**: ![Sigmoid Function](images/img1.png)
-- **Confusion Matrix**: ![Confusion Matrix](images/img2.png)
-- **Decision Boundary**: ![Decision Boundary](images/img3.png)
+- **Sigmoid Function Plot**:
+  <br> ![Sigmoid Function](images/img1.png)
+- **Confusion Matrix**:
+  <br> ![Confusion Matrix](images/img2.png)
+- **Decision Boundary**:
+  <br> ![Decision Boundary](images/img3.png)
 
 ---
 
@@ -96,5 +99,5 @@ jupyter notebook Lab07.ipynb
 ## 🚀 Open in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/habibkhan099/Machine-Learning-Lab/blob/main/Lab07.ipynb)
 
-👨‍💻 **Author:** Habib  
+👨‍💻 **Author:** Habib Ullah 
 📩 For any questions, feel free to raise an issue in the repository!
